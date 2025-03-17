@@ -1,6 +1,6 @@
 <!-- Replace with your project's logo or a relevant image -->
 <p align="center">
-  <img src="https://placehold.co/100x100" alt="PulseV Logo">
+  <img src="https://unavatar.io/github/pulsevde" alt="PulseV Logo">
 </p>
 
 ---
